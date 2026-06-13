@@ -1,0 +1,14 @@
+name: SiuuuTPA
+version: '1.0'
+main: de.siuuu.siuuutpa.SiuuuTPA
+api-version: '1.21'
+
+commands:
+  tpa:
+    description: Sendet eine TPA Anfrage
+
+  tpaaccept:
+    description: Nimmt eine Anfrage an
+
+  tpadeny:
+    description: Lehnt eine Anfrage ab
